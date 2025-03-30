@@ -1,0 +1,5 @@
+EC-1251 - Circuitos Eléctricos 1
+FS-2181 - Laboratorio de Física 1
+EC-2262 - Análisis de Circuitos Lineales
+CI-2125 - Computación 1
+CT-1212 - Introducción a la Ingeniería Eléctrica
